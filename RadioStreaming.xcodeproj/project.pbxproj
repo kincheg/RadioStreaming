@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3F2D96CC1E71872D00A47C8E /* CellTB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2D96CB1E71872D00A47C8E /* CellTB.swift */; };
+		3F30D5501EAF6F38000A9B8A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3F30D54F1EAF6F38000A9B8A /* README.md */; };
 		3F9F7B8D1E7C85750017BDA1 /* Play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9F7B8C1E7C85750017BDA1 /* Play.png */; };
 		3F9F7B8F1E7C86C50017BDA1 /* Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9F7B8E1E7C86C50017BDA1 /* Pause.png */; };
 		3FC07AEE1E7C783900EE4E02 /* music.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3FC07AED1E7C783900EE4E02 /* music.gif */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		3F2D96CB1E71872D00A47C8E /* CellTB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellTB.swift; sourceTree = "<group>"; };
+		3F30D54F1EAF6F38000A9B8A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3F9F7B8C1E7C85750017BDA1 /* Play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Play.png; sourceTree = "<group>"; };
 		3F9F7B8E1E7C86C50017BDA1 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause.png; sourceTree = "<group>"; };
 		3FC07AED1E7C783900EE4E02 /* music.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = music.gif; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				3FC07AEF1E7C7AEF00EE4E02 /* gif.gif */,
 				3F9F7B8E1E7C86C50017BDA1 /* Pause.png */,
 				3F9F7B8C1E7C85750017BDA1 /* Play.png */,
+				3F30D54F1EAF6F38000A9B8A /* README.md */,
 			);
 			path = RadioStreaming;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			files = (
 				3F2D96CC1E71872D00A47C8E /* CellTB.swift in Sources */,
 				3FC5812F1E6F38010091D54B /* ViewController.swift in Sources */,
+				3F30D5501EAF6F38000A9B8A /* README.md in Sources */,
 				3FC5812D1E6F38010091D54B /* AppDelegate.swift in Sources */,
 				3FC581471E6F5A6C0091D54B /* GifImage.swift in Sources */,
 			);
